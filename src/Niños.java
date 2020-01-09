@@ -8,6 +8,8 @@ class Children {
     int age;
     String plan;
 
+
+
     public void ver(){
         System.out.println();
     }

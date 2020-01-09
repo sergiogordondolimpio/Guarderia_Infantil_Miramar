@@ -7,6 +7,9 @@ import java.util.Date;
 
 public class Main {
     public static void main(String[] args) throws ParseException {
+
+        MenuPrincipal.showMenu();
+
         Children children = new Children();
 
         String s = "21/10/1978";
@@ -21,6 +24,8 @@ public class Main {
         LocalDate currentDate = LocalDate.now();
         Period diff1 = Period.between(birthDate, currentDate);
         System.out.println("age:" + diff1.getYears() + "years");
+
+
 
 
 /**
