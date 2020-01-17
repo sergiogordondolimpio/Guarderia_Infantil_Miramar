@@ -2,20 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33431aa1-45cd-4991-98ae-57dd69b7c1cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_197.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Guarderia_Infantil_Miramar/.idea/Guarderia_Infantil_Miramar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Respuesta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Guarderia_Infantil_Miramar" beforeDir="false" afterPath="$PROJECT_DIR$/Guarderia_Infantil_Miramar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Guarderia_Infantil_Miramar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Guarderia_Infantil_Miramar.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/Children.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/MenuPrincipal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MenuPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MenuPrincipal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MenuPrincipalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MenuPrincipalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Niños.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Niños.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MenuPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MenuPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MenuPrincipalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MenuPrincipalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Children.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Children.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MenuPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MenuPrincipal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MenuPrincipalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MenuPrincipalTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,7 +63,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javatests" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -69,7 +79,7 @@
       <recent name="C:\Users\Usuario\IdeaProjects\Guarderia_Infantil_Miramar" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MenuPrincipalTest.obtenerOpcion2">
+  <component name="RunManager" selected="JUnit.MenuPrincipalTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Guarderia_Infantil_Miramar" />
@@ -82,6 +92,16 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MenuPrincipalTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuPrincipalTest.decide_continuar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Guarderia_Infantil_Miramar" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MenuPrincipalTest" />
+      <option name="METHOD_NAME" value="decide_continuar" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,23 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuPrincipalTest.showMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Guarderia_Infantil_Miramar" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MenuPrincipalTest" />
-      <option name="METHOD_NAME" value="showMenu" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MenuPrincipalTest" />
+        <item itemvalue="JUnit.MenuPrincipalTest.decide_continuar" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.MenuPrincipalTest.obtenerOpcion2" />
         <item itemvalue="JUnit.MenuPrincipalTest.obtenerOpcion" />
-        <item itemvalue="JUnit.MenuPrincipalTest" />
-        <item itemvalue="JUnit.MenuPrincipalTest.showMenu" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -156,10 +166,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="547" y="36" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1578255963166" />
-    <state x="630" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1579236455787">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579274657694">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="630" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579236455787" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1579274657694" />
+    <state x="630" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1579268137208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="630" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579268137208" />
     <state x="501" y="74" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1579230370403">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -168,26 +182,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="268" y="189" width="883" height="426" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1579215878731" />
-    <state x="561" y="139" key="FileChooserDialogImpl" timestamp="1578606351334">
+    <state x="561" y="139" key="FileChooserDialogImpl" timestamp="1579269931001">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="561" y="139" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578606351334" />
-    <state width="1023" height="142" key="GridCell.Tab.0.bottom" timestamp="1579236952421">
+    <state x="561" y="139" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579269931001" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1579275585921">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1023" height="142" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579236952421" />
-    <state width="1023" height="142" key="GridCell.Tab.0.center" timestamp="1579236952419">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579275585921" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1579275585906">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1023" height="142" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579236952419" />
-    <state width="1023" height="142" key="GridCell.Tab.0.left" timestamp="1579236952419">
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579275585906" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1579275585906">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1023" height="142" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579236952419" />
-    <state width="1023" height="142" key="GridCell.Tab.0.right" timestamp="1579236952420">
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579275585906" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1579275585906">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1023" height="142" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579236952420" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579275585906" />
     <state width="997" height="220" key="GridCell.Tab.1.bottom" timestamp="1578262161225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -204,10 +218,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="997" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1578262161225" />
-    <state x="474" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1579228385479">
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1579269769533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="474" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579228385479" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1579269769533" />
+    <state x="474" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1579267124727">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="474" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579267124727" />
     <state x="482" y="278" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579216368903">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

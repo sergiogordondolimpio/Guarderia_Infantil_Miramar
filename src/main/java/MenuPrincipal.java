@@ -22,7 +22,7 @@ public class MenuPrincipal {
     public static void showMenu(){
         System.out.println("Bienvenido a Taller Infantil Miramar");
         int opcion = 0;
-        char respuesta;
+
 
         do {
             System.out.println("Opciones:" +
@@ -50,15 +50,8 @@ public class MenuPrincipal {
                     break;
                 case 4:
                     System.out.println("Desea salir? s/n");
-
-                    do {
-                        respuesta = sc.next().charAt(0);
-                        if (respuesta == 'n') {
-                            opcion = 0;
-                        } else if (respuesta != 's') {
-                            System.out.println("Ingrese la opcion correcta s/n");
-                        }
-                    }while (respuesta != 's' && respuesta != 'n');
+                    Respuesta respuesta = new Respuesta();
+                   if (!respuesta.decidir_continuar(sc.next().charAt(0))) opcion = 5;
 
                     break;
             }

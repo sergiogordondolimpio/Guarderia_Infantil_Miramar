@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Guarderia_Infantil_Miramar" target="1.5" />
+      <module name="Guarderia_Infantil_Miramar" target="1.8" />
       <module name="test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
