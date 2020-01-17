@@ -2,6 +2,23 @@ import java.util.Scanner;
 
 public class MenuPrincipal {
 
+    private int opcion = 0;
+
+    public MenuPrincipal(int opcion) {
+        this.opcion = opcion;
+    }
+
+    public int getOpcion() {
+        return opcion;
+    }
+
+    public void setOpcion(int opcion) {
+        this.opcion = opcion;
+    }
+
+
+
+
     public static void showMenu(){
         System.out.println("Bienvenido a Taller Infantil Miramar");
         int opcion = 0;
@@ -15,9 +32,11 @@ public class MenuPrincipal {
                     "\n 4- Salir" +
                     "\n\n Ingrese la opcion: \n"
                             );
+
             //obtiene el dato del teclado
             Scanner sc = new Scanner(System.in);
-            opcion = Integer.valueOf(sc.nextLine());
+            opcion = sc.nextInt();
+
 
             switch (opcion){
                 case 1 :
@@ -27,11 +46,10 @@ public class MenuPrincipal {
                     //listaNiños();
                     break;
                 case 3 :
-                    //listaNiños();
+                    //editarNiño();
                     break;
                 case 4:
                     System.out.println("Desea salir? s/n");
-
 
                     do {
                         respuesta = sc.next().charAt(0);
@@ -42,6 +60,7 @@ public class MenuPrincipal {
                         }
                     }while (respuesta != 's' && respuesta != 'n');
 
+                    break;
             }
 
         }while (opcion != 4);
