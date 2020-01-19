@@ -1,3 +1,5 @@
+import java.sql.Connection;
+import java.sql.SQLException;
 import java.util.Scanner;
 
 public class MenuPrincipal {
@@ -41,6 +43,14 @@ public class MenuPrincipal {
             switch (opcion){
                 case 1 :
                     //ingresarNiño();
+                    ConectionMySQL conectionMySQL = new ConectionMySQL();
+                    try(Connection cnx = conectionMySQL.get_connection()){
+
+                    }catch (SQLException e) {
+                        System.out.println(e);
+                    } {
+
+                }
                     break;
                 case 2 :
                     //listaNiños();
