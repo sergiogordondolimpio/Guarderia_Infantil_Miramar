@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33431aa1-45cd-4991-98ae-57dd69b7c1cb" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/Guarderia_Infantil_Miramar/.idea/Guarderia_Infantil_Miramar.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Guarderia_Infantil_Miramar" beforeDir="false" afterPath="$PROJECT_DIR$/Guarderia_Infantil_Miramar" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guarderia_Infantil_Miramar/.idea/Guarderia_Infantil_Miramar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChildrenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dataBase/ChildrenDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dataBase/DataChildren.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guarderia_Infantil_Miramar" beforeDir="false" afterPath="$PROJECT_DIR$/Guarderia_Infantil_Miramar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConectionMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataBase/ConnectionMySQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MenuPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MenuPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Niños.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Children.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ConectionMySQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MenuPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MenuPrincipal.class" afterDir="false" />
+>>>>>>> b792fa1... voy a crear una nueva rama en master para la interfaz grafica
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +48,35 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+=======
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AmazonViewer" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\IdeaProjects\Guarderia_Infantil_Miramar" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dataBase" />
+    </key>
+>>>>>>> b792fa1... voy a crear una nueva rama en master para la interfaz grafica
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -79,6 +122,7 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="547" y="36" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1578255963166" />
+<<<<<<< HEAD
     <state width="997" height="220" key="GridCell.Tab.0.bottom" timestamp="1578262161193">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -95,6 +139,52 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="997" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578262161193" />
+=======
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579274657694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1579274657694" />
+    <state x="630" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1579946066487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="630" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579946066487" />
+    <state x="501" y="74" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1579230370403">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="501" y="74" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1579230370403" />
+    <state x="406" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579944698132">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1579944698132" />
+    <state x="462" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579944644461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1579944644461" />
+    <state x="268" y="189" width="883" height="426" key="DiffContextDialog" timestamp="1579215878731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="268" y="189" width="883" height="426" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1579215878731" />
+    <state x="561" y="139" key="FileChooserDialogImpl" timestamp="1580069529115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="139" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580069529115" />
+    <state width="1040" height="143" key="GridCell.Tab.0.bottom" timestamp="1579958039619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1040" height="143" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579958039619" />
+    <state width="1040" height="143" key="GridCell.Tab.0.center" timestamp="1579958039619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1040" height="143" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579958039619" />
+    <state width="1040" height="143" key="GridCell.Tab.0.left" timestamp="1579958039619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1040" height="143" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579958039619" />
+    <state width="1040" height="143" key="GridCell.Tab.0.right" timestamp="1579958039619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1040" height="143" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579958039619" />
+>>>>>>> b792fa1... voy a crear una nueva rama en master para la interfaz grafica
     <state width="997" height="220" key="GridCell.Tab.1.bottom" timestamp="1578262161225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -111,13 +201,44 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="997" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1578262161225" />
+<<<<<<< HEAD
     <state x="406" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1581081782713">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="406" y="227" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581081782713" />
+=======
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1579269769533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1579269769533" />
+    <state x="326" y="0" key="SettingsEditor" timestamp="1579406906285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579406906285" />
+    <state x="474" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1580069406802">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="474" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580069406802" />
+    <state x="482" y="278" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579216368903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="482" y="278" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1579216368903" />
+    <state x="548" y="88" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579234058202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="548" y="88" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1579234058202" />
+    <state x="131" y="80" key="new project wizard" timestamp="1580069509229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="80" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580069509229" />
+>>>>>>> b792fa1... voy a crear una nueva rama en master para la interfaz grafica
     <state x="662" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1578257035922">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="662" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1578257035922" />
+    <state x="515" y="114" width="672" height="678" key="search.everywhere.popup" timestamp="1579945495999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="515" y="114" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579945495999" />
   </component>
 </project>

@@ -7,7 +7,14 @@ import java.util.Date;
 
 public class Main {
     public static void main(String[] args) throws ParseException {
+<<<<<<< HEAD:src/Main.java
         Children children = new Children();
+=======
+
+        MenuPrincipal.showMenu();
+
+        ChildrenService childrenService = new ChildrenService();
+>>>>>>> b792fa1... voy a crear una nueva rama en master para la interfaz grafica:src/main/java/Main.java
 
         String s = "21/10/1978";
         SimpleDateFormat sdf = new SimpleDateFormat("dd/mm/yyyy");
