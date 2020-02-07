@@ -10,7 +10,7 @@ public class Main {
 
         MenuPrincipal.showMenu();
 
-        Children children = new Children();
+        ChildrenService childrenService = new ChildrenService();
 
         String s = "21/10/1978";
         SimpleDateFormat sdf = new SimpleDateFormat("dd/mm/yyyy");

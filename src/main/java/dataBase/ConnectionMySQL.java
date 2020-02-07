@@ -1,8 +1,10 @@
+package dataBase;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class ConectionMySQL {
+public class ConnectionMySQL {
 
     public Connection get_connection(){
         Connection conection = null;

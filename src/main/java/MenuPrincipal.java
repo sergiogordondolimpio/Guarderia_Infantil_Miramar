@@ -1,5 +1,4 @@
-import java.sql.Connection;
-import java.sql.SQLException;
+import java.text.ParseException;
 import java.util.Scanner;
 
 public class MenuPrincipal {
@@ -21,7 +20,7 @@ public class MenuPrincipal {
 
 
 
-    public static void showMenu(){
+    public static void showMenu() throws ParseException {
         System.out.println("Bienvenido a Taller Infantil Miramar");
         int opcion = 0;
 
@@ -32,7 +31,7 @@ public class MenuPrincipal {
                     "\n 2- Ver lista de niños" +
                     "\n 3- Editar niño" +
                     "\n 4- Salir" +
-                    "\n\n Ingrese la opcion: \n"
+                    "\n\n Ingrese la opcion: "
                             );
 
             //obtiene el dato del teclado
@@ -42,15 +41,9 @@ public class MenuPrincipal {
 
             switch (opcion){
                 case 1 :
-                    //ingresarNiño();
-                    ConectionMySQL conectionMySQL = new ConectionMySQL();
-                    try(Connection cnx = conectionMySQL.get_connection()){
+                    ChildrenService childrenService = new ChildrenService();
+                    childrenService.childrenInsert();
 
-                    }catch (SQLException e) {
-                        System.out.println(e);
-                    } {
-
-                }
                     break;
                 case 2 :
                     //listaNiños();
