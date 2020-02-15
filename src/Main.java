@@ -1,3 +1,6 @@
+import dataBase.ChildrenService;
+
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
@@ -7,14 +10,13 @@ import java.util.Date;
 
 public class Main {
     public static void main(String[] args) throws ParseException {
-<<<<<<< HEAD:src/Main.java
         Children children = new Children();
-=======
 
-        MenuPrincipal.showMenu();
+        MenuPrincipal menuPrincipal = new MenuPrincipal();
+        menuPrincipal.showMenu();
+
 
         ChildrenService childrenService = new ChildrenService();
->>>>>>> b792fa1... voy a crear una nueva rama en master para la interfaz grafica:src/main/java/Main.java
 
         String s = "21/10/1978";
         SimpleDateFormat sdf = new SimpleDateFormat("dd/mm/yyyy");

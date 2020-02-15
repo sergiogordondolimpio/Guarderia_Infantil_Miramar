@@ -1,3 +1,4 @@
+import dataBase.ChildrenService;
 import java.text.ParseException;
 import java.util.Scanner;
 
@@ -5,25 +6,12 @@ public class MenuPrincipal {
 
     private int opcion = 0;
 
-    public MenuPrincipal(int opcion) {
-        this.opcion = opcion;
-    }
-
-    public int getOpcion() {
-        return opcion;
-    }
-
-    public void setOpcion(int opcion) {
-        this.opcion = opcion;
-    }
-
-
-
 
     public static void showMenu() throws ParseException {
         System.out.println("Bienvenido a Taller Infantil Miramar");
-        int opcion = 0;
 
+
+        int opcion = 0;
 
         do {
             System.out.println("Opciones:" +
@@ -53,8 +41,9 @@ public class MenuPrincipal {
                     break;
                 case 4:
                     System.out.println("Desea salir? s/n");
-                    Respuesta respuesta = new Respuesta();
-                   if (!respuesta.decidir_continuar(sc.next().charAt(0))) opcion = 5;
+                    opcion = sc.nextInt();
+                   /* Respuesta respuesta = new Respuesta();
+                   if (!respuesta.decidir_continuar(sc.next().charAt(0))) opcion = 5;*/
 
                     break;
             }

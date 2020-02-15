@@ -20,7 +20,7 @@ public class DataChildren {
         this.regular = regular;
     }
 
-    public DataChildren() {
+    public DataChildren(){
 
     }
 

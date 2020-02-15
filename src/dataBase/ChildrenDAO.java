@@ -6,8 +6,8 @@ import java.sql.SQLException;
 
 public class ChildrenDAO {
 
-    //function that insert a child in the database, the values come from the class DataChildren
-    //with interface in ChildrenService
+    //function that insert a child in the database, the values come from the class dataBase.DataChildren
+    //with interface in dataBase.ChildrenService
     public static void childrenInsertDB(DataChildren dataChildren){
         ConnectionMySQL connectionMySQL = new ConnectionMySQL();
         try (Connection connection = connectionMySQL.get_connection()) {
