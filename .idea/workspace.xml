@@ -2,29 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33431aa1-45cd-4991-98ae-57dd69b7c1cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Usuario.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_48_bin.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Guarderia_Infantil_Miramar/.idea/Guarderia_Infantil_Miramar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graphicInterface/CLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graphicInterface/GUIroot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graphicInterface/PanelRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphicInterface/PanelSee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphicInterface/TextInputDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Guarderia_Infantil_Miramar" beforeDir="false" afterPath="$PROJECT_DIR$/Guarderia_Infantil_Miramar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guarderia_Infantil_Miramar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Guarderia_Infantil_Miramar.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ChildrenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataBase/ChildrenService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MenuPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuPrincipal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dataBase/ChildrenDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataBase/ChildrenDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dataBase/ConnectionMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataBase/ConnectionMySQL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dataBase/DataChildren.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataBase/DataChildren.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ChildrenService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MenuPrincipal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dataBase/ChildrenDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dataBase/ConnectionMySQL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dataBase/DataChildren.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/Children.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/MenuPrincipal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/dataBase/ChildrenDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/dataBase/ChildrenDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/dataBase/ChildrenService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/dataBase/ChildrenService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/graphicInterface/CLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/graphicInterface/CLayout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/graphicInterface/DataChildren.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/graphicInterface/FormInsertChildren$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/graphicInterface/FormInsertChildren.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/graphicInterface/GUIroot$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/graphicInterface/GUIroot$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/graphicInterface/GUIroot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/graphicInterface/GUIroot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Guarderia_Infantil_Miramar/image/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MenuPrincipal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Niños.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphicInterface/CLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphicInterface/CLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphicInterface/GUIroot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphicInterface/GUIRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/image1.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Java/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48-bin.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -67,8 +67,10 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="dataBase" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\IdeaProjects\Guarderia_Infantil_Miramar\src\graphicInterface" />
+      <recent name="C:\Users\Usuario\IdeaProjects\Guarderia_Infantil_Miramar\out" />
+      <recent name="C:\Users\Usuario\IdeaProjects\Guarderia_Infantil_Miramar" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="dataBase" />
@@ -76,28 +78,14 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Usuario\IdeaProjects\Guarderia_Infantil_Miramar\src\graphicInterface" />
-      <recent name="C:\Users\Usuario\IdeaProjects\Guarderia_Infantil_Miramar\out" />
-      <recent name="C:\Users\Usuario\IdeaProjects\Guarderia_Infantil_Miramar" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="graphicInterface" />
+      <recent name="dataBase" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GUIroot">
+  <component name="RunManager" selected="Application.GUIRoot">
     <configuration name="CLayout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="graphicInterface.CLayout" />
-      <module name="Guarderia_Infantil_Miramar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataBase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dialog1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graphicInterface.Dialog1" />
       <module name="Guarderia_Infantil_Miramar" />
       <extension name="coverage">
         <pattern>
@@ -135,6 +123,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GUIRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graphicInterface.GUIRoot" />
+      <module name="Guarderia_Infantil_Miramar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graphicInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GUIroot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="graphicInterface.GUIroot" />
       <module name="Guarderia_Infantil_Miramar" />
@@ -150,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GUIRoot" />
         <item itemvalue="Application.GUIroot" />
         <item itemvalue="Application.CLayout" />
         <item itemvalue="Application.FormInsertChildren" />
         <item itemvalue="Application.GUIMenuPrincipal" />
-        <item itemvalue="Application.Dialog1" />
       </list>
     </recent_temporary>
   </component>
@@ -203,10 +204,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="64" y="55" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581269250819" />
-    <state x="630" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1581535783353">
+    <state x="630" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1581808617638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="630" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581535783353" />
+    <state x="630" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581808617638" />
     <state x="606" y="177" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581526479016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -223,38 +224,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1579944644461" />
-    <state x="726" y="148" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581532309647">
+    <state x="726" y="148" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581802505835">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="726" y="148" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581532309647" />
+    <state x="726" y="148" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581802505835" />
     <state x="268" y="189" width="883" height="426" key="DiffContextDialog" timestamp="1579215878731">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="268" y="189" width="883" height="426" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1579215878731" />
-    <state x="561" y="139" key="FileChooserDialogImpl" timestamp="1581085678345">
+    <state x="561" y="139" key="FileChooserDialogImpl" timestamp="1582241735970">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="561" y="139" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581085678345" />
-    <state width="730" height="164" key="GridCell.Tab.0.bottom" timestamp="1581789032409">
+    <state x="561" y="139" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582241735970" />
+    <state width="1057" height="164" key="GridCell.Tab.0.bottom" timestamp="1582259205903">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="844" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581637915530" />
-    <state width="730" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581789032409" />
-    <state width="730" height="164" key="GridCell.Tab.0.center" timestamp="1581789032409">
+    <state width="1057" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582259205903" />
+    <state width="1057" height="164" key="GridCell.Tab.0.center" timestamp="1582259205903">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="844" height="143" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581637915530" />
-    <state width="730" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581789032409" />
-    <state width="730" height="164" key="GridCell.Tab.0.left" timestamp="1581789032409">
+    <state width="1057" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582259205903" />
+    <state width="1057" height="164" key="GridCell.Tab.0.left" timestamp="1582259205903">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="844" height="143" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581637915530" />
-    <state width="730" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581789032409" />
-    <state width="730" height="164" key="GridCell.Tab.0.right" timestamp="1581789032409">
+    <state width="1057" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582259205903" />
+    <state width="1057" height="164" key="GridCell.Tab.0.right" timestamp="1582259205903">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="844" height="143" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581637915530" />
-    <state width="730" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581789032409" />
+    <state width="1057" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582259205903" />
     <state width="997" height="220" key="GridCell.Tab.1.bottom" timestamp="1578262161225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -283,10 +284,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="778" y="168" key="UIDesigner.ListEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1581370204116" />
-    <state x="474" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1581801865130">
+    <state x="474" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1582256945465">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="474" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581801865130" />
+    <state x="474" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582256945465" />
     <state x="482" y="278" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579216368903">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -299,10 +300,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="670" y="255" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1581370681371" />
-    <state x="131" y="80" key="new project wizard" timestamp="1580069509229">
+    <state x="131" y="80" key="new project wizard" timestamp="1581895671003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="131" y="80" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580069509229" />
+    <state x="131" y="80" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1581895671003" />
     <state x="662" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1578257035922">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

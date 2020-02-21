@@ -1,3 +1,5 @@
+package main;
+
 import dataBase.ChildrenService;
 
 
@@ -10,10 +12,7 @@ import java.util.Date;
 
 public class Main {
     public static void main(String[] args) throws ParseException {
-        Children children = new Children();
 
-        MenuPrincipal menuPrincipal = new MenuPrincipal();
-        menuPrincipal.showMenu();
 
 
         ChildrenService childrenService = new ChildrenService();

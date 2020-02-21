@@ -77,7 +77,7 @@ public class CLayout {
 
         //FlowLayout los acomoda automatico, se puede modificar para que todo este en el centro
         // o para un lado, y vertical, en este caso lo hice con un BoxLayout
-        panelSecond.setLayout(new BoxLayout(panelSecond,BoxLayout.Y_AXIS));
+        panelSecond.setLayout(new BoxLayout(panelSecond,BoxLayout.LINE_AXIS));
         panelSecond.add(label1);
         panelSecond.add(buttonSecond);
         panelSecond.add(label2);
