@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33431aa1-45cd-4991-98ae-57dd69b7c1cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Guarderia_Infantil_Miramar/.idea/Guarderia_Infantil_Miramar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ChildrenService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataBase/ChildrenDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataBase/DataChildren.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Guarderia_Infantil_Miramar" beforeDir="false" afterPath="$PROJECT_DIR$/Guarderia_Infantil_Miramar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConectionMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataBase/ConnectionMySQL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MenuPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MenuPrincipal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Niños.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Children.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ConectionMySQL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MenuPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MenuPrincipal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +26,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VzVU8nAZDJSgva6RW7jVCdvUUW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
