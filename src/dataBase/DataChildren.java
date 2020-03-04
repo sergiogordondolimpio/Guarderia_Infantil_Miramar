@@ -75,4 +75,12 @@ public class DataChildren {
     public void setRegular(String regular) {
         this.regular = regular;
     }
+
+    //this function return to the splitPane in PanelSee the surname and the name
+    @Override
+    public String toString() {
+        return surnameChildren + ' ' + nameChildren ;
+
+    }
+
 }
