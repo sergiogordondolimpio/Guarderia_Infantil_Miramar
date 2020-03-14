@@ -10,7 +10,9 @@ public class DataChildren {
     private String  regular;
 
 
-    public DataChildren(int dniChildren, String nameChildren, String surnameChildren, String birthday, String dateIn, String sex, String regular) {
+    public DataChildren(int dniChildren, String nameChildren,
+                        String surnameChildren, String birthday,
+                        String dateIn, String sex, String regular) {
         this.dniChildren = dniChildren;
         this.nameChildren = nameChildren;
         this.surnameChildren = surnameChildren;
